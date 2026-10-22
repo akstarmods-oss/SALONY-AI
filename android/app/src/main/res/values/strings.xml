@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SALONY AI</string>
+    <string name="app_tagline">Your Caring AI Voice Companion</string>
+
+    <!-- Voice States -->
+    <string name="state_standby">Standby • Ready to Talk</string>
+    <string name="state_connecting">Connecting to Salony…</string>
+    <string name="state_listening">Salony is listening…</string>
+    <string name="state_thinking">Salony is thinking…</string>
+    <string name="state_speaking">Salony is speaking…</string>
+
+    <!-- Controls -->
+    <string name="btn_start_session">Tap to Talk</string>
+    <string name="btn_stop_session">Stop Session</string>
+    <string name="btn_mute">Mute</string>
+    <string name="btn_unmute">Unmute</string>
+    <string name="btn_interrupt">Tap orb to interrupt</string>
+    <string name="btn_save">Save Memory</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_clear_all">Clear All</string>
+
+    <!-- Quick Prompts -->
+    <string name="prompt_1">Salony, kaise ho aap?</string>
+    <string name="prompt_2">Torch on karo</string>
+    <string name="prompt_3">YouTube chalao</string>
+    <string name="prompt_4">WhatsApp open karo</string>
+    <string name="prompt_5">Yaad rakhna mera favorite color blue hai</string>
+
+    <!-- Memory Screen -->
+    <string name="title_memories">Persistent Memories</string>
+    <string name="search_memories_hint">Search memories…</string>
+    <string name="no_memories">No memories saved yet.\nTalk to Salony or tap + to save!</string>
+    <string name="confirm_delete_all_title">Clear All Memories?</string>
+    <string name="confirm_delete_all_msg">This will permanently delete all memories stored by Salony. This action cannot be undone.</string>
+
+    <!-- Settings Screen -->
+    <string name="title_settings">Salony Settings</string>
+    <string name="voice_model_title">Gemini Voice Personality</string>
+    <string name="backend_url_title">Gemini Live Server URL</string>
+    <string name="backend_url_hint">e.g. wss://your-server.run.app/live</string>
+    <string name="sound_effects_title">Play Audio Chimes</string>
+    <string name="torch_test_title">Test Camera Flashlight</string>
+    <string name="about_title">About Salony AI</string>
+    <string name="about_desc">Salony is a sweet, caring AI companion capable of natural English, Hindi, and Hinglish voice conversations and Android device actions.</string>
+
+    <!-- Permissions & Errors -->
+    <string name="mic_permission_required">Microphone permission is required for voice conversation with Salony.</string>
+    <string name="mic_permission_rationale">Salony needs access to your microphone to listen to your voice in real time.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="connection_error">Could not connect to voice server. Please check your internet connection or server settings.</string>
+    <string name="action_success">Action executed successfully</string>
+</resources>

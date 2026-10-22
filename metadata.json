@@ -1,0 +1,6 @@
+{
+  "name": "SALONY AI - Voice Assistant",
+  "description": "A caring, intelligent, and charming AI voice companion featuring real-time conversational voice interaction, animated glowing AI orb, and smart actions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

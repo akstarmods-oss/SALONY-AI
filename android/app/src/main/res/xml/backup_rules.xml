@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<backup-rules>
+    <include domain="database" path="salony_memory.db" />
+    <include domain="sharedpref" path="salony_prefs.xml" />
+</backup-rules>
